@@ -1,4 +1,4 @@
-# pandas-matplot-data-analytics
+# Pandas-matplot-data-analytics
 
 Python Data Processing
 Use pandas, numpy, plotly and built-in python modules
